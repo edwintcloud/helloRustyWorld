@@ -1,17 +1,16 @@
-# helloRustyWorld
+# hello_rusty_world
 My first program in Rust
 
 ## Compiling
 ```sh
-rustc main.rs
+cargo build
+```
+### For release
+```sh
+cargo build --release
 ```
 
 ## Running
-### On mac or linux:
 ```sh
-./main
-```
-### On windows:
-```sh
-./main.exe
+cargo run
 ```

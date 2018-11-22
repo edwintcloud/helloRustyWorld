@@ -1,0 +1,5 @@
+[package]
+
+name = "hello_rusty_world"
+version = "0.0.2"
+authors = [ "ecloud412@gmail.com" ]
